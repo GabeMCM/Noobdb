@@ -1,13 +1,13 @@
-# jdatas
+# NoobDB
 
-O jdatas é uma poderosa biblioteca de gerenciamento de dados em formato JSON, projetada para oferecer uma solução simples e eficiente para armazenar e manipular informações em seu aplicativo. Com o jdatas, você pode facilmente criar, atualizar, ler e excluir objetos de dados, além de validar os dados usando esquemas personalizados.
+O jdatas é uma poderosa biblioteca de gerenciamento de dados em formato JSON, projetada para oferecer uma solução simples e eficiente para armazenar e manipular informações em seu aplicativo. Com o NoobDB, você pode facilmente criar, atualizar, ler e excluir objetos de dados, além de validar os dados usando esquemas personalizados.
 
 ## Instalação
 
-Para instalar o jdatas, você precisará ter o Node.js instalado em seu ambiente de desenvolvimento. Em seguida, execute o seguinte comando para adicionar o jdatas ao seu projeto:
+Para instalar o NoobDB, você precisará ter o Node.js instalado em seu ambiente de desenvolvimento. Em seguida, execute o seguinte comando para adicionar o jdatas ao seu projeto:
 
 ```
-npm install jdatas
+npm install noobdb
 ```
 
 ## Como usar
@@ -58,7 +58,7 @@ try {
 
 ## Contribuição e Melhorias
 
-O jdatas é um projeto em constante evolução, e a contribuição da comunidade é fundamental para o seu aprimoramento contínuo. Se você deseja contribuir para o jdatas, fique à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos relacionados a esquemas e opções de criptografia de dados.
+O jdatas é um projeto em constante evolução, e a contribuição da comunidade é fundamental para o seu aprimoramento contínuo. Se você deseja contribuir para o NoobDB, fique à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos relacionados a esquemas e opções de criptografia de dados.
 
 Algumas sugestões de melhorias incluem:
 
@@ -71,4 +71,4 @@ Suas contribuições serão analisadas cuidadosamente e serão muito bem-vindas!
 
 ## Licença
 
-O jdatas é distribuído sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir o código conforme os termos da licença.
+O NoobDB é distribuído sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir o código conforme os termos da licença.
